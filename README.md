@@ -1,4 +1,4 @@
-# malariaDetection
+# Malaria Detection
 
 - Machine Learning / Computer vision solution that can help detecting presence of Malaria parasite in image of blood cell by using feature extraction techniques called contour detection and then using RandomForest Classifier.
 
